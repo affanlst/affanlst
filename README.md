@@ -54,9 +54,8 @@ Encrypt and decrypt images using Caesar, Vigenère, and AES algorithms. User aut
 
 ### 📫 Let’s Connect
 
-- Email: (isi email kamu di sini)
-- LinkedIn: (jika ada)
-- Instagram: (jika ingin dicantumkan)
+- Email: affannaufalsyarifalghifari@gmail.com
+- Instagram: @affannaufalll_
 
 ---
 
