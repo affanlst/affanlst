@@ -10,7 +10,7 @@
 
 - 🎓 D3 Information Technology Student  
 - 🔭 Currently working on **Aquana** – a smart aquarium IoT project  
-- 🧠 Passionate about building systems with **ESP32**, **Flutter**, **Next.js**, and **Firebase**
+- 🧠 Passionate about building systems with **ESP32**, **React Native**, **Next.js**, and **Firebase**
 - ⚙️ Loves learning through hands-on projects and experimentation
 
 ---
