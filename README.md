@@ -21,7 +21,7 @@
 ![Skills](https://skillicons.dev/icons?i=js,ts,py,php,html,css)
 
 #### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=nextjs,flutter,react,firebase,mysql,git,vercel,arduino,vscode)
+![Tools](https://skillicons.dev/icons?i=nextjs,react,firebase,mysql,git,vercel,arduino,vscode)
 
 ---
 
