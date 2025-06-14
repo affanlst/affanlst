@@ -28,7 +28,7 @@
 ### 📌 Featured Projects
 
 #### 💧 Aquana - Smart Aquarium IoT
-> Flutter + Firebase + ESP32  
+> React Native + Firebase + ESP32  
 Smart fish tank for real-time water quality monitoring and automated drainage system.
 
 [🔗 Repository](https://github.com/affanlst/aquana) (private or upcoming)
