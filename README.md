@@ -25,34 +25,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 💧 Aquana - Smart Aquarium IoT
-> React Native + Firebase + ESP32  
-Smart fish tank for real-time water quality monitoring and automated drainage system.
-
-[🔗 Repository](https://github.com/affanlst/aquana) (private or upcoming)
-
----
-
-#### 🔒 Image Encryption Web App
-> Next.js + Flask + MySQL  
-Encrypt and decrypt images using Caesar, Vigenère, and AES algorithms. User authentication and image tracking included.
-
-[🔗 Repository](https://github.com/affanlst/image_encrypt)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=affanlst&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanlst&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-### 📫 Let’s Connect
 
 - Email: affannaufalsyarifalghifari@gmail.com
 - Instagram: @affannaufalll_
