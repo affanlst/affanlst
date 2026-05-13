@@ -1,8 +1,8 @@
 <h1 align="center">Affan Naufal</h1>
-<p align="center"><strong>Full Stack Web Developer</strong> — Python · Django · PHP · Laravel · Filament · JavaScript · TailwindCSS</p>
+<p align="center"><strong>Full Stack Web Developer</strong> — Django · Laravel · Filament · Next.js · React · TailwindCSS · Supabase</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6AC6F2&center=true&vCenter=true&width=550&lines=Building+web+apps+that+solve+real+problems;Django+%2B+Laravel+%2B+TailwindCSS;Clean+code%2C+clean+design;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6AC6F2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+from+Indonesia;Django+%7C+Laravel+Filament+%7C+Next.js+%7C+React;Building+scalable+web+applications;Clean+code%2C+clean+design%2C+great+UX;SEO+optimized+%26+performance+focused" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,14 @@
 
 ## 👋 About Me
 
-Saya seorang **Full Stack Web Developer** dari Indonesia yang fokus membangun aplikasi web yang fungsional, scalable, dan user-friendly. Saya bekerja dengan ekosistem **Python/Django** dan **PHP/Laravel (Filament)** untuk backend, serta **TailwindCSS** dan **JavaScript** untuk frontend yang modern.
+Saya seorang **Full Stack Web Developer** dari Indonesia yang fokus membangun aplikasi web modern, scalable, dan SEO-friendly. Saya bekerja dengan ekosistem **Python/Django** dan **PHP/Laravel Filament** untuk backend, **Next.js & React** untuk frontend modern, serta **Supabase** sebagai backend-as-a-service.
 
 **Saat ini saya sedang:**
 
-- 🔨 Mengerjakan proyek web fullstack dengan Django & Laravel Filament
-- 📚 Memperdalam arsitektur software dan best practices
+- 🔨 Membangun web apps fullstack dengan Django, Laravel Filament, dan Next.js
+- 🚀 Mengoptimalkan performa & SEO untuk production-grade applications
+- 🔄 Menerapkan CI/CD pipeline untuk deployment yang efisien
+- 📚 Memperdalam arsitektur software dan cloud infrastructure
 - 🤝 Terbuka untuk kolaborasi dan proyek open source
 
 ---
@@ -30,51 +32,56 @@ Saya seorang **Full Stack Web Developer** dari Indonesia yang fokus membangun ap
 <tr>
 <td width="50%" valign="top">
 
-### Backend
+### ⚙️ Backend
 | Technology | Level |
 |:---|:---|
 | 🐍 Python | ██████████ Advanced |
 | 🎯 Django | ██████████ Advanced |
 | 🐘 PHP | █████████░ Proficient |
 | 🔥 Laravel | █████████░ Proficient |
-| 🧩 Filament | ████████░░ Intermediate |
+| 🧩 Filament PHP | █████████░ Proficient |
 | 🗄️ MySQL | █████████░ Proficient |
+| ⚡ Supabase | ████████░░ Intermediate |
+| 🔗 REST API | █████████░ Proficient |
 
 </td>
 <td width="50%" valign="top">
 
-### Frontend
+### 🎨 Frontend
 | Technology | Level |
 |:---|:---|
+| ⚛️ React | █████████░ Proficient |
+| ▲ Next.js | █████████░ Proficient |
+| ⚡ JavaScript | █████████░ Proficient |
 | 🌐 HTML5 | ██████████ Advanced |
 | 🎨 CSS3 | █████████░ Proficient |
-| 🌊 TailwindCSS | █████████░ Proficient |
-| ⚡ JavaScript | █████████░ Proficient |
-| ⚛️ Alpine.js | ████████░░ Intermediate |
+| 🌊 TailwindCSS | ██████████ Advanced |
 | 📱 Responsive Design | █████████░ Proficient |
+| 🔍 SEO Optimization | █████████░ Proficient |
 
 </td>
 </tr>
 </table>
 
-### Tools & Workflow
+### 🔧 Tools & DevOps
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+- 🔄 **CI/CD:** GitHub Actions, Auto Deploy
+- 🚀 **Deployment:** Vercel, VPS, Shared Hosting
+- 🐳 **Environment:** Docker, Venv, Node
 - 🔧 **Version Control:** Git, GitHub
-- 🖥️ **Editor:** VS Code
-- 🐳 **Environment:** Docker, Venv
-- 🧪 **Testing:** PyTest, PHPUnit
 
 </td>
 <td width="50%" valign="top">
 
-- 🚀 **Deploy:** Vercel, VPS, Shared Hosting
-- 🗃️ **Database:** MySQL, SQLite
+- 🗃️ **Database:** MySQL, Supabase (PostgreSQL), SQLite
 - 📦 **Package Manager:** Pip, Composer, NPM
+- 🖥️ **Editor:** VS Code
 - 🎨 **Design:** Figma
+- 🧪 **Testing:** PyTest, PHPUnit
 
 </td>
 </tr>
@@ -108,21 +115,23 @@ Saya seorang **Full Stack Web Developer** dari Indonesia yang fokus membangun ap
 <td width="50%" valign="top">
 
 ### 🏗️ Backend Development
-- REST API development dengan Django & Laravel
-- Admin panel dengan Filament PHP
-- Database design & optimization (MySQL)
+- REST API dengan Django & Laravel
+- Admin panel & dashboard dengan Filament PHP
+- Database design & optimization (MySQL, Supabase)
 - Authentication & authorization systems
 - Server-side rendering & MVC architecture
+- Background jobs & queue management
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 Frontend Development
-- Responsive UI dengan TailwindCSS
-- Interactive pages dengan JavaScript
-- Component-based templating (Blade, Jinja2)
-- Modern CSS layouts (Flexbox, Grid)
-- Cross-browser compatibility
+### 🎨 Frontend & Deployment
+- Modern UI dengan React & Next.js
+- Responsive layouts dengan TailwindCSS
+- SEO optimization & meta management
+- Deployment ke Vercel dengan CI/CD
+- Performance optimization & caching
+- Cross-browser & mobile compatibility
 
 </td>
 </tr>
